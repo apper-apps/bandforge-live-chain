@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'react-toastify/dist/ReactToastify.css';
+
+@layer base {
+  * {
+    @apply border-0;
+  }
+  
+  body {
+    @apply bg-background text-white font-inter antialiased;
+    background-image: 
+      radial-gradient(circle at 25% 25%, rgba(255, 0, 110, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 75% 75%, rgba(58, 12, 163, 0.1) 0%, transparent 50%);
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-surface/80 backdrop-blur-sm border border-primary/20;
+  }
+  
+  .neon-glow {
+    box-shadow: 0 0 20px rgba(255, 0, 110, 0.3);
+  }
+  
+  .neon-glow:hover {
+    box-shadow: 0 0 30px rgba(255, 0, 110, 0.5);
+  }
+  
+  .cut-corner {
+    clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px));
+  }
+}
+
+/* Toast Styling */
+.Toastify__toast-container {
+  @apply z-[9999] top-4 right-4;
+}
+
+.Toastify__toast {
+  @apply bg-surface text-white border border-primary/20 rounded-lg shadow-neon-pink min-h-16;
+}
+
+.Toastify__toast--success {
+  @apply border-success/50;
+  box-shadow: 0 0 20px rgba(0, 245, 160, 0.3);
+}
+
+.Toastify__toast--error {
+  @apply border-error/50;
+  box-shadow: 0 0 20px rgba(208, 0, 0, 0.3);
+}
+
+.Toastify__progress-bar {
+  @apply bg-primary;
+}
+
+.Toastify__close-button {
+  @apply text-white/70 hover:text-white;
+}

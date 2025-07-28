@@ -1,0 +1,71 @@
+{
+  "adjectives": [
+    "Electric", "Crimson", "Velvet", "Neon", "Shadow", "Golden", "Midnight", "Crystal", "Silent", "Broken",
+    "Savage", "Eternal", "Blazing", "Frozen", "Wild", "Ancient", "Modern", "Lost", "Hidden", "Burning",
+    "Mystic", "Digital", "Cosmic", "Urban", "Vintage", "Raw", "Pure", "Twisted", "Bright", "Dark",
+    "Sacred", "Rebel", "Sweet", "Sharp", "Smooth", "Rough", "Deep", "High", "Fast", "Slow"
+  ],
+  "nouns": [
+    "Thunder", "Dreams", "Roses", "Wolves", "Stars", "Fire", "Ice", "Hearts", "Minds", "Souls",
+    "Wings", "Chains", "Lights", "Shadows", "Echoes", "Whispers", "Storm", "Rain", "Sun", "Moon",
+    "Ocean", "Mountain", "River", "Desert", "Forest", "City", "Street", "Road", "Bridge", "Tower",
+    "Crown", "Sword", "Shield", "Arrow", "Bullet", "Bomb", "Explosion", "Revolution", "Evolution", "Solution"
+  ],
+  "rockWords": [
+    "Riff", "Thunder", "Lightning", "Storm", "Fire", "Blaze", "Riot", "Rebel", "Wild", "Savage",
+    "Heavy", "Metal", "Steel", "Iron", "Stone", "Rock", "Roll", "Beat", "Rhythm", "Sound",
+    "Loud", "Noise", "Chaos", "Mayhem", "Fury", "Rage", "Power", "Force", "Energy", "Drive"
+  ],
+  "metalWords": [
+    "Death", "Black", "Doom", "Hate", "Rage", "War", "Battle", "Sword", "Blood", "Fire",
+    "Hell", "Satan", "Demon", "Evil", "Dark", "Shadow", "Night", "Grave", "Corpse", "Skull",
+    "Bone", "Steel", "Iron", "Metal", "Heavy", "Brutal", "Savage", "Violent", "Cruel", "Harsh"
+  ],
+  "indieWords": [
+    "Vintage", "Retro", "Dreamy", "Soft", "Gentle", "Sweet", "Lovely", "Pretty", "Beautiful", "Cute",
+    "Hipster", "Artsy", "Creative", "Unique", "Special", "Different", "Quirky", "Weird", "Strange", "Odd",
+    "Modern", "Cool", "Fresh", "New", "Young", "Old", "Classic", "Timeless", "Eternal", "Forever"
+  ],
+  "popWords": [
+    "Star", "Fame", "Glory", "Shine", "Bright", "Light", "Glow", "Sparkle", "Glitter", "Diamond",
+    "Gold", "Silver", "Platinum", "Crystal", "Pearl", "Gem", "Jewel", "Treasure", "Prize", "Crown",
+    "King", "Queen", "Prince", "Princess", "Royal", "Noble", "Elite", "VIP", "Celebrity", "Icon"
+  ],
+  "electronicWords": [
+    "Digital", "Cyber", "Tech", "Neon", "Laser", "LED", "Code", "Data", "Signal", "Wave",
+    "Frequency", "Bass", "Drop", "Beat", "Sync", "Loop", "Sample", "Mix", "Remix", "Edit",
+    "Upload", "Download", "Stream", "Link", "Network", "System", "Program", "Software", "Hardware", "Virtual"
+  ],
+  "jazzWords": [
+    "Blue", "Smooth", "Cool", "Hot", "Sweet", "Swing", "Groove", "Rhythm", "Beat", "Time",
+    "Note", "Chord", "Scale", "Key", "Melody", "Harmony", "Song", "Tune", "Music", "Sound",
+    "Club", "Bar", "Lounge", "Stage", "Show", "Performance", "Concert", "Gig", "Session", "Jam"
+  ],
+  "punkWords": [
+    "Punk", "Riot", "Rebel", "Anarchy", "Chaos", "Disorder", "Mess", "Trouble", "Problem", "Issue",
+    "Fight", "Battle", "War", "Conflict", "Struggle", "Resist", "Protest", "Strike", "March", "Rally",
+    "Youth", "Teen", "Kid", "Young", "Wild", "Free", "Independent", "Alone", "Solo", "Single"
+  ],
+  "folkWords": [
+    "Country", "Farm", "Field", "Hill", "Valley", "River", "Creek", "Stream", "Lake", "Pond",
+    "Tree", "Leaf", "Branch", "Root", "Seed", "Flower", "Grass", "Earth", "Soil", "Ground",
+    "Home", "House", "Cabin", "Barn", "Porch", "Road", "Path", "Trail", "Journey", "Travel"
+  ],
+  "themes": {
+    "space": ["Galaxy", "Nebula", "Cosmos", "Orbit", "Satellite", "Asteroid", "Comet", "Supernova"],
+    "nature": ["Wilderness", "Ecosystem", "Habitat", "Migration", "Predator", "Evolution", "Climate", "Seasons"],
+    "mythology": ["Phoenix", "Dragon", "Kraken", "Sphinx", "Titan", "Oracle", "Prophecy", "Legend"],
+    "technology": ["Algorithm", "Protocol", "Interface", "Database", "Network", "System", "Hardware", "Software"],
+    "emotion": ["Euphoria", "Melancholy", "Serenity", "Anxiety", "Passion", "Despair", "Bliss", "Torment"],
+    "time": ["Eternity", "Moment", "Yesterday", "Tomorrow", "Century", "Decade", "Instant", "Forever"],
+    "color": ["Crimson", "Azure", "Emerald", "Violet", "Amber", "Scarlet", "Indigo", "Magenta"],
+    "elements": ["Hydrogen", "Carbon", "Oxygen", "Nitrogen", "Platinum", "Mercury", "Uranium", "Titanium"]
+  },
+  "combinations": [
+    ["Electric", "Storm"], ["Neon", "Dreams"], ["Midnight", "Riders"], ["Crystal", "Vision"],
+    ["Silent", "Thunder"], ["Broken", "Wings"], ["Golden", "Age"], ["Shadow", "Dance"],
+    ["Velvet", "Revolution"], ["Crimson", "Tide"], ["Digital", "Decay"], ["Cosmic", "Dust"],
+    ["Urban", "Legends"], ["Vintage", "Soul"], ["Sacred", "Geometry"], ["Rebel", "Heart"],
+    ["Arctic", "Monkeys"], ["Burning", "Bridges"], ["Frozen", "Time"], ["Wild", "Horses"]
+  ]
+}

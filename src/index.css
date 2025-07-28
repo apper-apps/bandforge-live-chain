@@ -39,11 +39,9 @@
 .Toastify__toast-container {
   @apply z-[9999] top-4 right-4;
 }
-
 .Toastify__toast {
-  @apply bg-surface text-white border border-primary/20 rounded-lg shadow-neon-pink min-h-16;
+  @apply bg-surface text-white border border-primary/20 rounded-lg shadow-neon-pink min-h-[4rem];
 }
-
 .Toastify__toast--success {
   @apply border-success/50;
   box-shadow: 0 0 20px rgba(0, 245, 160, 0.3);

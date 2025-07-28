@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from "react";
-import { motion } from "framer-motion";
-import { toast } from "react-hot-toast";
-import Header from "@/components/organisms/Header";
-import Footer from "@/components/organisms/Footer";
+import React, { useEffect, useState } from 'react'
+import { motion } from 'framer-motion'
+import { toast } from 'react-toastify'
+import Header from '@/components/organisms/Header'
+import Footer from '@/components/organisms/Footer'
 import BandNameDisplay from "@/components/organisms/BandNameDisplay";
 import FavoritesPanel from "@/components/organisms/FavoritesPanel";
 import GenreSelector from "@/components/molecules/GenreSelector";
